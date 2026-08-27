@@ -1,27 +1,59 @@
-# Hi, I'm Fazwan 👋
+# Hi, I'm Fazwan Zainuddin 👋
 
-### Builder of practical digital products for property and business operations
+### Founder of [KlaimSnap](https://klaimsnap.com) — building Malaysia-first AI for clearer financial records
 
-I build focused, real-world software that turns complex workflows into simple, useful experiences. My current work explores property technology, expense management, CRM systems, and AI-assisted automation.
+I am a founder, product owner, and full-stack builder focused on making everyday financial administration simpler. I created KlaimSnap to help individuals, freelancers, and SMEs turn receipts into organised income, expense, and claim records—with practical AI insights built around Malaysian needs.
 
-## What I'm working on
+> My goal is to grow KlaimSnap from an award-winning Malaysian product into a trusted regional SaaS platform, supported by strong governance, responsible localisation, and the right strategic partners.
 
-- 🏠 Property and real-estate workflow tools
-- 🧾 Smarter expense and claims management
-- 🤝 CRM experiences for property professionals
-- ⚡ AI-assisted automation for everyday operations
+## Building KlaimSnap
 
-## Principles I build by
+KlaimSnap is a live AI-powered financial literacy and record-management platform. I ideated the product and built its frontend, backend, and infrastructure end-to-end.
 
-- Solve a real problem
-- Keep the experience simple
-- Ship, learn, and improve
-- Build with measurable business value
+**Live capabilities**
 
-## Technology interests
+- AI receipt scanning and structured data extraction
+- Income, expense, and multi-entity record keeping
+- Financial reporting, search, review, and export workflows
+- Personalised AI financial insights and spending analysis
+- Freemium subscriptions and a measurable partner-led growth engine
 
-`TypeScript` · `Web Applications` · `Product Development` · `AI Automation`
+## Milestones so far
+
+| Date | Milestone |
+|---|---|
+| 27 Apr 2026 | Launched KlaimSnap |
+| 23–24 May 2026 | 🥈 Silver Award — i-TIE 2026 |
+| 10 Jun 2026 | 🥈 Silver Award — iIDEX 2026 |
+| 15 Jun 2026 | 🥇 Gold Medal — DIGITEX 2026 |
+
+**Three recognitions in 49 days from launch**, supported by founder-led field validation and feedback from real Malaysian users.
+
+- MyIPO copyright filing: **LY2026E02541**
+- Built with institutional support from **UiTM Puncak Alam** and **MASMED UiTM**
+- Grounded in research on AI, accounting, and digital financial literacy
+
+## What I am working toward as a founder
+
+- Proving product-market fit with individuals, freelancers, and Malaysian SMEs
+- Turning manual receipt and financial-record workflows into accessible AI-assisted experiences
+- Building a disciplined, recurring-revenue SaaS business with measurable customer value
+- Strengthening governance, privacy, compliance readiness, and Sdn. Bhd. incorporation readiness
+- Forming a selective global network of mentors, market builders, and strategic partners
+- Localising responsibly for regional markets without losing KlaimSnap's Malaysia-first advantage
+
+## How I build
+
+`Founder-led discovery` · `Full-stack product development` · `AI automation` · `SaaS strategy` · `Market validation` · `Strategic partnerships`
+
+I believe strong products are built by listening closely, shipping responsibly, measuring real outcomes, and continuously improving.
+
+## Let's connect
+
+I welcome conversations with experienced founders, AI and technology leaders, financial professionals, mentors, institutions, and responsible market-entry partners.
+
+[Explore KlaimSnap](https://klaimsnap.com) · [Strategic Partner Programme](https://klaimsnap.com/strategic-partner) · [Meet the Team](https://klaimsnap.com/our-team)
 
 ---
 
-Based in Malaysia 🇲🇾 · Open to learning, collaboration, and building useful products.
+Based in Kuala Lumpur, Malaysia 🇲🇾 · Building locally, thinking regionally.
