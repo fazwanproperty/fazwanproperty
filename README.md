@@ -2,13 +2,13 @@
 
 ### Founder of [KlaimSnap](https://klaimsnap.com) — building Malaysia-first AI for clearer financial records
 
-I am a founder, product owner, and full-stack builder focused on making everyday financial administration simpler. I created KlaimSnap to help individuals, freelancers, and SMEs turn receipts into organised income, expense, and claim records—with practical AI insights built around Malaysian needs.
+I am a founder, product owner, and AI-assisted product builder focused on making everyday financial administration simpler. I created KlaimSnap to help individuals, freelancers, and SMEs turn receipts into organised income, expense, and claim records—with practical AI insights built around Malaysian needs.
 
 > My goal is to grow KlaimSnap from an award-winning Malaysian product into a trusted regional SaaS platform, supported by strong governance, responsible localisation, and the right strategic partners.
 
 ## Building KlaimSnap
 
-KlaimSnap is a live AI-powered financial literacy and record-management platform. I ideated the product and built its frontend, backend, and infrastructure end-to-end.
+KlaimSnap is a live AI-powered financial literacy and record-management platform. I lead its product direction and have shipped its frontend, backend, and infrastructure end-to-end through a founder-directed, AI-assisted development workflow.
 
 **Live capabilities**
 
@@ -44,9 +44,11 @@ KlaimSnap is a live AI-powered financial literacy and record-management platform
 
 ## How I build
 
-`Founder-led discovery` · `Full-stack product development` · `AI automation` · `SaaS strategy` · `Market validation` · `Strategic partnerships`
+`Founder-led discovery` · `AI-assisted full-stack delivery` · `Product ownership` · `SaaS strategy` · `Market validation` · `Strategic partnerships`
 
 I believe strong products are built by listening closely, shipping responsibly, measuring real outcomes, and continuously improving.
+
+My GitHub activity reflects thousands of granular product iterations directed through Lovable and other AI-assisted workflows. I treat these automated development checkpoints as a record of iteration cadence—not as a substitute for product outcomes, user validation, or engineering quality.
 
 ## Let's connect
 
