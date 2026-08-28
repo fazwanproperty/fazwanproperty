@@ -50,6 +50,16 @@ I believe strong products are built by listening closely, shipping responsibly, 
 
 My GitHub activity reflects thousands of granular product iterations directed through Lovable and other AI-assisted workflows. I treat these automated development checkpoints as a record of iteration cadence—not as a substitute for product outcomes, user validation, or engineering quality.
 
+## Current build progress
+
+| Date | Status | What I built |
+|---|---|---|
+| 28 Aug 2026 | Internal tool | Built a privacy-conscious founder sales pipeline for KlaimSnap's first paying-customer sprint, including source-data cleaning, lead prioritisation, funnel tracking, and permission-first outreach operations. |
+
+[Read the public build log](BUILD_LOG.txt)
+
+I publish only genuine progress. Private source code, credentials, customer or prospect data, and confidential commercial material remain private. A day without meaningful completed work does not receive a manufactured commit.
+
 ## Let's connect
 
 I welcome conversations with experienced founders, AI and technology leaders, financial professionals, mentors, institutions, and responsible market-entry partners.

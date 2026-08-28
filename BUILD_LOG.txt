@@ -1,0 +1,30 @@
+FAZWAN ZAINUDDIN — PUBLIC BUILD LOG
+==================================
+
+Purpose
+-------
+This log records genuine founder-led product, validation, and business-system
+progress. It does not publish private source code, credentials, customer data,
+prospect contact details, or confidential commercial material.
+
+Status language
+---------------
+LIVE          = deployed to production and verified.
+INTERNAL TOOL = built for founder operations; not a public product feature.
+VALIDATION    = customer discovery or commercial evidence work.
+IN PROGRESS   = meaningful work has started but is not complete.
+
+2026-08-28
+----------
+Status: INTERNAL TOOL
+
+Built a founder-led sales pipeline for KlaimSnap's first 10 paying-customer
+sprint. Cleaned a 350-row public-business research export into 308 unique
+target-business records, added contact-coverage summaries, lead scoring,
+priority tiers, search and segmentation filters, sales-stage tracking, safe
+permission-first outreach copy, and local CSV/JSON export.
+
+Important: No prospect contact details or source dataset are published here.
+This is an internal go-to-market execution tool and is not presented as a new
+KlaimSnap production capability or as customer/revenue traction.
+
