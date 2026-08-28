@@ -55,6 +55,7 @@ My GitHub activity reflects thousands of granular product iterations directed th
 | Date | Status | What I built |
 |---|---|---|
 | 28 Aug 2026 | Internal tool | Built a privacy-conscious founder sales pipeline for KlaimSnap's first paying-customer sprint, including source-data cleaning, lead prioritisation, funnel tracking, and permission-first outreach operations. |
+| 28 Aug 2026 | Validation | Prepared 29 personalised permission-first email drafts for a controlled two-wave customer-discovery campaign, with explicit opt-out language and a one-follow-up limit. No outreach results or traction are claimed. |
 
 [Read the public build log](BUILD_LOG.txt)
 

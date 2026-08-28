@@ -28,3 +28,13 @@ Important: No prospect contact details or source dataset are published here.
 This is an internal go-to-market execution tool and is not presented as a new
 KlaimSnap production capability or as customer/revenue traction.
 
+Status: VALIDATION
+
+Prepared 29 personalised, permission-first outbound email drafts for a
+controlled two-wave founder-led customer-discovery campaign. The execution
+packs include explicit opt-out language and a one-follow-up limit.
+
+Important: These are prepared drafts, not evidence that messages were sent,
+replies were received, customers converted, or revenue was collected. No
+prospect identities, email addresses, phone numbers, or draft contents are
+published in this public log.
