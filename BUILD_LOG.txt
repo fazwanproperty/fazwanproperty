@@ -14,6 +14,20 @@ INTERNAL TOOL = built for founder operations; not a public product feature.
 VALIDATION    = customer discovery or commercial evidence work.
 IN PROGRESS   = meaningful work has started but is not complete.
 
+2026-08-29
+----------
+Status: LIVE
+
+Added Tadbir.site to the public founder portfolio after confirming its
+production status. Tadbir.site is a live legal-practice management platform
+for Malaysian law firms, published at https://tadbir.site with a public
+website and login entry point.
+
+Important: This entry records the status confirmed on 29 August 2026. It does
+not claim that date as the product's original launch date, and it does not
+publish private source code, credentials, client information, or confidential
+operational data.
+
 2026-08-28
 ----------
 Status: INTERNAL TOOL

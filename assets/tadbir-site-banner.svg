@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tadbir.site - Legal Practice Management</title>
+  <desc id="desc">Tadbir.site banner for a legal practice management platform for Malaysian law firms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#c9e2fb"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1060" cy="70" r="130" fill="#fff" opacity=".24"/>
+  <g transform="translate(92 82)">
+    <rect width="54" height="54" rx="14" fill="#101b2d"/>
+    <rect x="13" y="11" width="28" height="32" rx="5" fill="none" stroke="#e8f5ff" stroke-width="3"/>
+    <path d="M19 20h16M19 27h16M19 34h11" stroke="#49c4ff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="170" y="123" fill="#172236" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Tadbir.site</text>
+  <text x="94" y="190" fill="#172236" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Legal Practice Management</text>
+  <text x="94" y="238" fill="#2563eb" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Platform pengurusan amalan guaman</text>
+  <text x="94" y="275" fill="#2563eb" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">untuk firma guaman Malaysia.</text>
+  <text x="94" y="321" fill="#52647d" font-family="Segoe UI,Arial,sans-serif" font-size="21">Live at tadbir.site</text>
+  <g transform="translate(840 66)">
+    <polygon points="145,0 225,46 225,140 145,187 65,140 65,46" fill="#d8e9fb"/>
+    <rect x="0" y="120" width="78" height="126" rx="11" fill="#172236"/>
+    <rect x="90" y="145" width="78" height="126" rx="11" fill="url(#blue)"/>
+    <rect x="180" y="106" width="78" height="126" rx="11" fill="#101b2d"/>
+    <path d="M20 145h38M20 162h31M110 172h38M200 133h38" stroke="#eff8ff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
