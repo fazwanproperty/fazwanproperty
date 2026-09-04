@@ -14,6 +14,22 @@ INTERNAL TOOL = built for founder operations; not a public product feature.
 VALIDATION    = customer discovery or commercial evidence work.
 IN PROGRESS   = meaningful work has started but is not complete.
 
+2026-09-04
+----------
+Status: INTERNAL TOOL
+
+Built and formula-checked a six-tab decision-maker CRM workbook from the
+founder's existing public-business research dataset. The internal workbook
+includes an operating summary, prioritised master list, visit-route planning,
+a deduplicated CRM-import view, decision-maker outreach guidance, and a
+preserved source-data view. The final workbook opened successfully and the
+formula-error scan returned no matches.
+
+Important: This records completion of a private founder sales-operations
+asset. It does not claim that prospects were contacted, appointments were
+booked, customers converted, or revenue was collected. No prospect identities,
+contact details, source records, workbook, or import data are published here.
+
 2026-09-03
 ----------
 Status: INTERNAL TOOL
