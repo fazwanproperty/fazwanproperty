@@ -14,6 +14,21 @@ INTERNAL TOOL = built for founder operations; not a public product feature.
 VALIDATION    = customer discovery or commercial evidence work.
 IN PROGRESS   = meaningful work has started but is not complete.
 
+2026-09-05
+----------
+Status: INTERNAL TOOL
+
+Finalised a founder-approved Version 4 governance snapshot for KlaimSnap's
+development delivery, cost controls, release authority, and platform-
+independence target. The completed documentation package defines the reading
+order and conflict rules across the existing product-status authority and the
+new governance layer.
+
+Important: This is an internal governance and documentation milestone. It did
+not change any product capability status, migrate the platform, modify
+production, or deploy a new feature. Budgets, private architecture, credentials,
+and the underlying governance documents remain private.
+
 2026-09-04
 ----------
 Status: INTERNAL TOOL
