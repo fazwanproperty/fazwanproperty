@@ -27,6 +27,12 @@ KlaimSnap is a live AI-powered financial literacy and record-management platform
 **Production status:** Live at [tadbir.site](https://tadbir.site). The public website and login entry point are published; this profile does not disclose private source code, credentials, client information, or confidential operational data.
 
 
+## Trading Machine — in development
+
+Trading Machine is my personal AI-assisted trading-analysis product in development. I have prepared its product specification and implementation plan, covering Monthly, Weekly, H4, M30, M5 and M1 analysis, founder-defined strategy rules, and evidence-based fundamental and sentiment research. A Lovable demonstration prototype has been built and its dashboard inspected.
+
+**Current status:** In progress. The prototype uses synthetic prices and fictional research examples. Live market data, real AI analysis and platform connectors are not yet implemented. The intended first release provides signals for users to review and execute manually. No live signal service, trading performance or regulatory approval is claimed.
+
 ## Milestones so far
 
 | Date | Milestone |
@@ -63,6 +69,7 @@ My GitHub activity reflects thousands of granular product iterations directed th
 
 | Date | Status | What I built |
 |---|---|---|
+| 6 Sep 2026 | In progress | Started Trading Machine, a personal AI-assisted trading-analysis product. Built a Lovable demonstration prototype and inspected its dashboard, alongside its product specification and implementation plan. Market prices and research are synthetic; live signals and platform integrations are not implemented. |
 | 5 Sep 2026 | Internal tool | Finalised a founder-approved Version 4 governance snapshot covering development delivery, cost controls, release authority, and the platform-independence target. This was documentation only: no capability status changed and no production migration, modification, or deployment occurred. |
 | 4 Sep 2026 | Internal tool | Built and formula-checked a six-tab decision-maker CRM workbook with a prioritised master list, visit-route planning, a deduplicated CRM-import view, operating guidance, and preserved source data. No prospect data, outreach, customer, or revenue outcomes are published or claimed. |
 | 3 Sep 2026 | Internal tool | Built a structured phone, WhatsApp, and TikTok revenue-sprint operating pack with six copy-ready execution blocks and safeguards for opt-outs, prospect data, and payment evidence. No outreach, publishing, customer, or revenue outcomes are claimed. |
