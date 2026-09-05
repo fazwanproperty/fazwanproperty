@@ -14,6 +14,20 @@ INTERNAL TOOL = built for founder operations; not a public product feature.
 VALIDATION    = customer discovery or commercial evidence work.
 IN PROGRESS   = meaningful work has started but is not complete.
 
+2026-09-06
+----------
+Status: IN PROGRESS
+
+Started Trading Machine as a personal founder-led product. Completed the
+product specification and implementation plan for six-timeframe analysis,
+founder-defined strategy rules, fundamental and sentiment evidence, and a
+signal-only workflow with manual user execution. Built a Lovable demonstration prototype and inspected its dashboard.
+
+The prototype uses synthetic prices and fictional research examples. Live
+market feeds, real AI analysis and platform connectors are not implemented. No live signal service, performance results or
+regulatory approval are claimed. Private trading methods and implementation
+files remain private.
+
 2026-09-05
 ----------
 Status: INTERNAL TOOL
