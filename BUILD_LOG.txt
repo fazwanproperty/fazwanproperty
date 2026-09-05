@@ -14,6 +14,9 @@ INTERNAL TOOL = built for founder operations; not a public product feature.
 VALIDATION    = customer discovery or commercial evidence work.
 IN PROGRESS   = meaningful work has started but is not complete.
 
+2026-09-06 — DOCUMENTATION
+Prepared Trading Machine Project Charter v1.0 and three Mermaid diagrams for architecture, analysis and release controls. This is documentation only; no backend migration or live signal capability was activated. Internal documents remain private.
+
 2026-09-06
 ----------
 Status: IN PROGRESS
