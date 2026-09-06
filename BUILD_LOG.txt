@@ -141,3 +141,11 @@ Important: These are prepared drafts, not evidence that messages were sent,
 replies were received, customers converted, or revenue was collected. No
 prospect identities, email addresses, phone numbers, or draft contents are
 published in this public log.
+
+2026-09-06 — Trading Machine signal engine v0.1
+------------------------------------------------
+Status: PROTOTYPE
+
+Built and tested the first local Trading Machine decision engine. It translates publicly described price-action signal patterns into three original and auditable setup types, with six-timeframe alignment, stale-data, closed-candle, economic-news, spread, risk/reward and position-sizing gates. Four deterministic test scenarios pass.
+
+This prototype does not copy paid signals or proprietary code. It has no live market feed, broker execution or validated profitability, and it does not imply that any financial target will be reached.
