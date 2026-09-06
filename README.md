@@ -93,3 +93,7 @@ I welcome conversations with experienced founders, AI and technology leaders, fi
 ---
 
 Based in Kuala Lumpur, Malaysia 🇲🇾 · Building locally, thinking regionally.
+
+## Trading Machine engineering update — 6 September 2026
+
+Built and tested the first local Trading Machine decision engine, translating public price-action signal patterns into three original, auditable setups with multi-timeframe, freshness, news, spread, risk/reward and position-sizing gates. Four deterministic scenarios pass. This is a local prototype with no live data, broker execution or performance claim.
