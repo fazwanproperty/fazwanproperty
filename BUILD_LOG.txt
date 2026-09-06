@@ -146,6 +146,6 @@ published in this public log.
 ------------------------------------------------
 Status: PROTOTYPE
 
-Built and tested the first local Trading Machine decision engine. It translates publicly described price-action signal patterns into three original and auditable setup types, with six-timeframe alignment, stale-data, closed-candle, economic-news, spread, risk/reward and position-sizing gates. Four deterministic test scenarios pass.
+Built and tested the first local Trading Machine decision engine. It translates founder-directed methodology into three original and auditable setup types, with six-timeframe alignment, stale-data, closed-candle, economic-news, spread, risk/reward and position-sizing gates. Four deterministic test scenarios pass.
 
-This prototype does not copy paid signals or proprietary code. It has no live market feed, broker execution or validated profitability, and it does not imply that any financial target will be reached.
+It has no live market feed, broker execution or validated profitability, and it does not imply that any financial target will be reached.
