@@ -97,3 +97,5 @@ Based in Kuala Lumpur, Malaysia 🇲🇾 · Building locally, thinking regionall
 ## Trading Machine engineering update — 6 September 2026
 
 Built and tested the first local Trading Machine decision engine with three founder-directed, auditable setups and multi-timeframe, freshness, news, spread, risk/reward and position-sizing gates. Four deterministic scenarios pass. This is a local prototype with no live data, broker execution or performance claim.
+
+The project source and version history are now maintained in a private repository under my personal `fazwanproperty` GitHub account. The repository is private to protect implementation details while the product remains in development.

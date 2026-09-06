@@ -149,3 +149,12 @@ Status: PROTOTYPE
 Built and tested the first local Trading Machine decision engine. It translates founder-directed methodology into three original and auditable setup types, with six-timeframe alignment, stale-data, closed-candle, economic-news, spread, risk/reward and position-sizing gates. Four deterministic test scenarios pass.
 
 It has no live market feed, broker execution or validated profitability, and it does not imply that any financial target will be reached.
+
+2026-09-06 — Trading Machine private source repository
+-------------------------------------------------------
+Status: VERSION CONTROLLED
+
+Created the private fazwanproperty/trading-machine repository and committed the
+current project documentation, portfolio patch, and tested decision-engine
+prototype under the personal fazwanproperty identity. Confidential research,
+credentials, private data, and implementation details remain unpublished.
