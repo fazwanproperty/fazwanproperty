@@ -99,3 +99,7 @@ Based in Kuala Lumpur, Malaysia 🇲🇾 · Building locally, thinking regionall
 Built and tested the first local Trading Machine decision engine with three founder-directed, auditable setups and multi-timeframe, freshness, news, spread, risk/reward and position-sizing gates. Four deterministic scenarios pass. This is a local prototype with no live data, broker execution or performance claim.
 
 The project source and version history are now maintained in a private repository under my personal `fazwanproperty` GitHub account. The repository is private to protect implementation details while the product remains in development.
+
+## Trading Machine local milestone — 8 September 2026
+
+Built and verified a local, paper-only Trading Machine workstation with nine-timeframe input, deterministic risk gates, a local journal and a read-only XM MT4 data bridge. The bridge compiled with 0 errors and 0 warnings and exposes no trade-execution capability. Automated checks cover the local API, broker snapshot validation and seven strategy guardrail scenarios. Live orders remain locked; this milestone does not claim profitability, live execution or production readiness.
