@@ -158,3 +158,11 @@ Created the private fazwanproperty/trading-machine repository and committed the
 current project documentation, portfolio patch, and tested decision-engine
 prototype under the personal fazwanproperty identity. Confidential research,
 credentials, private data, and implementation details remain unpublished.
+
+2026-09-08 — Trading Machine Local v0.2 and read-only XM MT4 bridge
+-----------------------------------------------------------------
+Status: PROTOTYPE
+
+Built and verified a laptop-hosted Trading Machine server with a nine-timeframe decision input, deterministic WAIT gates, paper journal and a read-only XM MT4 snapshot bridge. The MT4 component compiled with 0 errors and 0 warnings. Local API tests, broker-snapshot validation and seven strategy guardrail scenarios pass.
+
+Live order execution remains locked. The system has no validated profitability, completed backtest/forward test or production-readiness claim. Private strategy details, account information, credentials and source code remain unpublished.
